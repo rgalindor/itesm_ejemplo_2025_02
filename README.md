@@ -1,2 +1,2 @@
-# itesm_ejemplo_2025_02
+# itesm ejemplo 2025 02
 Git example
